@@ -1,0 +1,50 @@
+Mono path[0] = 'C:/Users/Maha/Desktop/Game/space_Data/Managed'
+Mono path[1] = 'C:/Users/Maha/Desktop/Game/space_Data/Mono'
+Mono config path = 'C:/Users/Maha/Desktop/Game/space_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Maha/Desktop/Game/space_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55075
+Multi-casting "[IP] 192.168.1.4 [Port] 55075 [Flags] 3 [Guid] 3131924879 [EditorId] 4011532676 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-632LGNJ) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55075]...
+PlayerConnection accepted from [192.168.1.4] handle:0x330
+Started listening to [0.0.0.0:55075]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56879
+PlayerConnection already initialized - listening to [0.0.0.0:55075]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family (Microsoft Corporation - WDDM 1.1) (ID=0x2a42)
+    Vendor:   Intel
+    VRAM:     559 MB
+    Driver:   8.15.10.2702
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Maha\Desktop\Game\space_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Maha\Desktop\Game\space_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Maha\Desktop\Game\space_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Maha\Desktop\Game\space_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Maha\Desktop\Game\space_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Maha\Desktop\Game\space_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Maha\Desktop\Game\space_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Maha\Desktop\Game\space_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Maha\Desktop\Game\space_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Maha\Desktop\Game\space_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.113 seconds
+Platform assembly: C:\Users\Maha\Desktop\Game\space_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Maha\Desktop\Game\space_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 70.861626 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 123c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.650937 ms
+System memory in use before: 11.4 MB.
+System memory in use after: 11.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 4.354979 ms (FindLiveObjects: 0.065327 ms CreateObjectMapping: 3.374140 ms MarkObjects: 0.893580 ms  DeleteObjects: 0.013998 ms)
+
+Waiting for finish
